@@ -16,6 +16,9 @@ if you click on the Log in button then you will go to log in page
 Now fill the details of shipping information then click on "proceed to payment" . 
 i have added a test Razorpay payment method. 
 
+the work of backend is only generate order_id and some stuffs for a razorpay test payment.
+i have used backend because in the frontend there was some issue in the payment page.
+
 
 Thanks
 
